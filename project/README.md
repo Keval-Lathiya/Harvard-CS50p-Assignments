@@ -1,5 +1,4 @@
 # Vector Mathematics Toolkit
-#### Video Demo: https://youtu.be/u0Tkgh78cBo
 #### Description: :
 The Vector Mathematics Toolkit is designed to facilitate complex vector operations for academic, scientific, and engineering purposes. With an intuitive interface and an extensive set of functions, it caters to students, educators, and professionals in fields that frequently engage with vector mathematics, such as physics, computer science, and engineering.
 
